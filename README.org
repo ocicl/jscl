@@ -1,0 +1,9 @@
+* jscl
+
+A Lisp-to-JavaScript compiler bootstrapped from Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/jscl-project/jscl.git |
+| commit  | c03d583                                      |
+| systems | jscl                                         |
+|---------+----------------------------------------------|
