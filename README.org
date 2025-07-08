@@ -4,6 +4,6 @@ A Lisp-to-JavaScript compiler bootstrapped from Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/jscl-project/jscl.git |
-| commit  | 6f89278                                      |
+| commit  | c423c7a                                      |
 | systems | jscl                                         |
 |---------+----------------------------------------------|
